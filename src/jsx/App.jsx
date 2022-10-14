@@ -29,7 +29,7 @@ function App() {
       <p>Here is a photo where Franci I act like we are surprised as we are also for the reason this event is happening.</p>
       <div className="image_container"><img src="./assets/img/IMG_3162.jpeg" alt="Sara & Zuzu" /></div>
       <h1>So Sara, plz come!</h1>
-      <div className="video_container"><iframe width="100%" height="" title="Youtube video" src="https://www.youtube.com/embed/EslzthDFm2w" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen /></div>
+      <div className="video_container"><iframe width="100%" height="" title="Youtube video" src="https://www.youtube.com/embed/mHyRCeKxhss" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen /></div>
       <p>This is a bonus photo without any reason</p>
       <div className="image_container"><img src="./assets/img/9D177B91-1603-4B29-8DA9-1BC5B3B62B76.jpeg" alt="Franci" /></div>
     </div>
